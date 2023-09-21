@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ae0ce2c83f094bab9f84d7e04290dc52
+timeCreated: 1695229611
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 40
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "normalFont5"
+  fontNames:
+  - UTM Azuki
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

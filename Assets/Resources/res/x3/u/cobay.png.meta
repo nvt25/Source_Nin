@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: ac9665fb5a08443ca2bcc7b6c091e479
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: cobay
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0, y: 1}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cobay
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 118.9403
+      alignment: 9
+      pivot: {x: 0, y: 1.00891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -10, y: 37.52987}
+      - {x: -10, y: 40.52987}
+      - {x: -8, y: 32.52987}
+    - - {x: 1, y: 47.52987}
+      - {x: -8, y: 32.52987}
+      - {x: -10, y: 40.52987}
+    - - {x: -5, y: 29.52987}
+      - {x: -8, y: 32.52987}
+      - {x: 1, y: 47.52987}
+    - - {x: 17, y: 29.52987}
+      - {x: -5, y: 29.52987}
+      - {x: 1, y: 47.52987}
+    - - {x: 22, y: 59.52987}
+      - {x: 17, y: 29.52987}
+      - {x: 1, y: 47.52987}
+    - - {x: 24, y: 34.52987}
+      - {x: 17, y: 29.52987}
+      - {x: 22, y: 59.52987}
+    - - {x: 24, y: 59.52987}
+      - {x: 24, y: 34.52987}
+      - {x: 22, y: 59.52987}
+    - - {x: -18, y: 17.52987}
+      - {x: -18, y: 27.52987}
+      - {x: -15, y: 9.529873}
+    - - {x: -3, y: 27.52987}
+      - {x: -15, y: 9.529873}
+      - {x: -18, y: 27.52987}
+    - - {x: -8, y: 0.5298729}
+      - {x: -15, y: 9.529873}
+      - {x: -3, y: 27.52987}
+    - - {x: 9, y: 0.5298729}
+      - {x: -8, y: 0.5298729}
+      - {x: -3, y: 27.52987}
+    - - {x: 22, y: 20.52987}
+      - {x: 9, y: 0.5298729}
+      - {x: -3, y: 27.52987}
+    - - {x: 18, y: 1.529873}
+      - {x: 9, y: 0.5298729}
+      - {x: 22, y: 20.52987}
+    - - {x: 22, y: 8.529873}
+      - {x: 18, y: 1.529873}
+      - {x: 22, y: 20.52987}
+    - - {x: -24, y: -25.47013}
+      - {x: -24, y: 3.529873}
+      - {x: -16, y: -30.47013}
+    - - {x: -15, y: 3.529873}
+      - {x: -16, y: -30.47013}
+      - {x: -24, y: 3.529873}
+    - - {x: 2, y: -30.47013}
+      - {x: -16, y: -30.47013}
+      - {x: -15, y: 3.529873}
+    - - {x: -4, y: -3.470127}
+      - {x: 2, y: -30.47013}
+      - {x: -15, y: 3.529873}
+    - - {x: 3, y: -19.47013}
+      - {x: 2, y: -30.47013}
+      - {x: -4, y: -3.470127}
+    - - {x: 3, y: -28.47013}
+      - {x: 2, y: -30.47013}
+      - {x: 3, y: -19.47013}
+    - - {x: -18, y: -50.47013}
+      - {x: -18, y: -32.47013}
+      - {x: -12, y: -59.47013}
+    - - {x: -5, y: -32.47013}
+      - {x: -12, y: -59.47013}
+      - {x: -18, y: -32.47013}
+    - - {x: 10, y: -59.47013}
+      - {x: -12, y: -59.47013}
+      - {x: -5, y: -32.47013}
+    - - {x: 21, y: -41.47013}
+      - {x: 10, y: -59.47013}
+      - {x: -5, y: -32.47013}
+    - - {x: 21, y: -48.47013}
+      - {x: 10, y: -59.47013}
+      - {x: 21, y: -41.47013}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cobay: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
